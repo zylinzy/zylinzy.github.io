@@ -12,10 +12,8 @@ redirect_from:
 Education
 ======
 * PhD candidate at Computer Vision Lab, Delft University of Technology (on-going)
-* MSc in Computer Science, arti, Delft University of Technology, 2023
-  * Artificial Intelligence Track
-* MSc in Electronics Engineering, National Taiwan University, 2017
-  * Digital Integrated Circuits and Systems Group
+* MSc in Computer Science - Artificial Intelligence, Delft University of Technology, 2023
+* MSc in Electronics Engineering - Digital Integrated Circuits and Systems, National Taiwan University, 2017
 * BSc in Electrical Engineering, National Taiwan University, 2015
 
 Work experience
