@@ -83,7 +83,7 @@ author:
   name             : "Zhi-Yi Lin"
   avatar           : "profile.png"
   bio              : "PhD candidate @ CV Lab, TU Delft"
-  location         : "Delft, the Netherlands"
+  location         :
   employ           :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
