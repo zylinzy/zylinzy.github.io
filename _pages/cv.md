@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * Senior Engineer, Mediatek Inc., Taiwan, 2017-2020
-  * Algorithm development for video-coding processing
+  * Algorithm development for video coding processing
 
 <!--
 Publications
